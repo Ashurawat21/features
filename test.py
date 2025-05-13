@@ -1,0 +1,2 @@
+var = "ashu"
+print(var)
