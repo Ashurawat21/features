@@ -7,3 +7,4 @@ print(s1) # print
 g = "new"
 print(g)
 print("ashu")
+print("ashu2")
