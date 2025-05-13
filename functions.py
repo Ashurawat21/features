@@ -8,3 +8,4 @@ g = "new"
 print(g)
 print("ashu")
 print("ashu2")
+print("ashu3")
