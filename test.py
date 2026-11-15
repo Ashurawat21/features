@@ -1,2 +1,0 @@
-var = "ashu"
-print(var)
